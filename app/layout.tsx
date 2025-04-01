@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Minesweeper",
   description: "A classic Minesweeper game built with Next.js",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
